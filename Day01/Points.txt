@@ -1,0 +1,246 @@
+Python - 3.9 >
+
+Editor - Pycharm
+
+-------------------------------------------
+
+Kiran - 24 years Experience
+
+python  - 11+ years
+
+
+-------------------------------------------
+
+1. Python - SDK  - 
+
+2. Python - shell - Python interactive environment
+
+3. IDLE   - integrated development environment
+
+
+
+------------------------------------------------
+
+2.x vs 3.x => syntax changes
+
+2.x
+---
+print "hello"
+
+
+3.x
+---
+print("hello")
+
+
+-------------------------------------------------
+
+python is called as a scripting tool
+
+1. scripting tools will be interpreted
+
+2. data types are loosly coupled
+
+	a = 10			=> a will behave like an integer
+
+	a = "hello"  => a will behave like a string
+
+	a = True 		# runtime (dynamic)
+
+	implicit decleration
+
+----------------============================
+programming language
+---------------------
+
+explicit decleration
+
+int a;				# compilation time
+
+a will be an integer through out the execution of the code
+
+
+------------------------------------------------------------
+
+in python there are 2 operators that are overloaded
+
+1. + 		=> addition and concatenation
+
+2. *		=> mulitiplication and to print a string n number of times
+
+
+
+Numbers
+-------
+
+2.x
+---
+python had a long datatype
+
+23567523557435L
+
+
+
+---------------------------------------------------------
+
+NewProject
+----------
+1. creates a new virtual environment
+		
+
+
+coding rules
+------------
+
+#!		-> 	shebang			-> specify the path of python.exe
+
+
+comments
+--------
+# -	used for comments, its a single line comment
+
+
+strings 
+-------
+can be stored in " " or ' ' - single line string
+
+
+"this is a string"
+
+'this is a string'
+
+multiline string  """   """ or  '''   '''
+
+"""
+ this
+	  is 
+      a
+		 multiline
+		   string
+"""
+
+Docstrings in python - top of a function - mention the use of a it
+
+Indentation is very important in python code
+
+def function():
+	print("hello")
+	print("World")
+
+print("hello world")
+
+-------------------------------------------------------------
+
+def fun():
+	# this code belongs to function fun
+	print('hello world')
+
+	for i in range(1, 25):
+		# this code belongs to the for loop
+		
+		if i % 2 == 1:
+			# thid code belongs to if condition
+			print(i) 
+		
+		
+
+print("This code belongs to the main module")
+
+
+
+
+
+def fun():
+	print('hello world')
+	print('hello world')
+
+	for i in range(1, 25):		
+		if i % 2 == 1:
+			print(i) 
+		
+-------------------------------------------------------
+Operators
+---------
+Arithmetic
+logical
+comparison
+ternary
+bitwise
+augmentor
+
+
+Data types
+----------
+1. Numbers
+	a. integers
+	b. float
+	c. complex 
+
+2. Strings
+
+3. Boolean
+
+
+Bitwise operator
+----------------
+OR
+--
+5 = 101
+3 = 011	
+	 ----
+	  111		-	7
+
+AND
+---
+5 = 101
+3 = 011	
+	 ----
+	 001		-	1
+
+
+XOR
+
+5 = 101
+3 = 011	
+	 ----
+	 110		-	6
+
+<<
+5 - 101  => 1010
+
+8 - 1000 => 10000
+
+5 - 101  => 10100	 - 20
+
+
+
+Control Structures and loops
+-----------------------------
+
+control structure
+-----------------
+if condition
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
