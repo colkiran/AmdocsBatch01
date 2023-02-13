@@ -1,0 +1,73 @@
+loops
+------
+1. for loop
+------------
+for loop is similar to foreach loop in other technologies
+
+foreach loop iterates based on a collection - range()
+
+
+range(1, 10)	=> 1...9
+
+range(10) => 0...9 
+
+range(1, 11, 1) => 1...10 (be default it gets incremented by 1
+
+range(2, 15, 2) => 2, 4, 6, 8 ....14
+
+range(10, 0, -1) => 10, 9, 8,....1
+
+
+
+2. while loop
+
+
+print
+-----
+print(data, sep=, end="\n")
+
+
+Strings
+-------
+strings are immutable
+
+
+Data Stuctures
+---------------
+1. Lists
+
+Lists are similar to array
+
+what is an array?
+
+1. collection of homogenous data
+2. memory allocation is contigious
+
+
+1. List is collection hetrogenous data
+2. memory allocation is not contigious
+3. ordered collection
+4. mutable
+5. list are subscriptable
+6. list are enclosed in [ ]
+
+
+2. Dictionary
+3. Tuples
+4. Sets
+
+
+
+Manipulate Lists
+-----------------
+ 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+
+
+
+
+
+
+
